@@ -54,6 +54,36 @@ After installing, add this to `~/.config/opencode/tui.json`:
 
 Replace `ember` with `ember-soft`, `ember-light`, or `ember-lighter` for other variants.
 
+## Showcase
+
+<details>
+<summary><b>Ember</b> — <code>#1c1b19</code> dark graphite</summary>
+
+![Ember](./showcase/ember.png)
+
+</details>
+
+<details>
+<summary><b>Ember Soft</b> — <code>#242320</code> lifted graphite</summary>
+
+![Ember Soft](./showcase/ember-soft.png)
+
+</details>
+
+<details>
+<summary><b>Ember Light</b> — <code>#e6dac4</code> warm ivory</summary>
+
+![Ember Light](./showcase/ember-light.png)
+
+</details>
+
+<details>
+<summary><b>Ember Lighter</b> — <code>#e8e4de</code> pale warm gray</summary>
+
+![Ember Lighter](./showcase/ember-lighter.png)
+
+</details>
+
 ## License
 
 MIT — ember-theme
